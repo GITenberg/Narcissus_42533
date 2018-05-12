@@ -1,0 +1,32 @@
+_repo: Narcissus_42533
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Evelyn
+    aliases:
+    - Dunn, Elsie
+    - Scott, Evelyn D. (Evelyn Dunn)
+    - Metcalfe, Elsie Dunn Wellman
+    - Wellman, Elsie Dunn
+    birthdate: 1893
+    deathdate: 1963
+    gutenberg_agent_id: '1494'
+    url: http://www.gutenberg.org/2009/agents/1494
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Scott
+description: ''
+gutenberg_issued: '2013-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Narcissus
+url: http://www.gutenberg.org/ebooks/42533
